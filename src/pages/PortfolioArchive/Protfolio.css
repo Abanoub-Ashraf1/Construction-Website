@@ -1,0 +1,16 @@
+.portfolio .item-text {
+  top: 50px;
+  right: 15% !important;
+
+  transition: all 0.5s;
+  opacity: 0;
+}
+.portfolio .item-text .shap {
+  padding: 0 20px;
+}
+.portfolio .col-lg-3 {
+  padding: 0 !important;
+}
+.portfolio .overlay {
+  background-color: rgba(255, 0, 0, 0.516);
+}

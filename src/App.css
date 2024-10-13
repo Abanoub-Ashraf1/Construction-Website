@@ -1,0 +1,105 @@
+:root {
+  --red: #d2153d;
+  --blue: #00215b;
+  --text-color: #41444b;
+}
+@font-face {
+  font-family: Lato;
+  src: url(../public/Lato-Bold.ttf);
+}
+@font-face {
+  font-family: kanit;
+  src: url(../public/Kanit-Light.ttf);
+}
+
+.text-decoration-none {
+  font-family: "kanit";
+  font-size: 14px;
+  color: var(--text-color);
+}
+.navlinks a {
+  color: var(--blue) !important;
+  font-size: 18px;
+  padding: 10px;
+  transition: all 0.2s;
+}
+
+.navlinks a:hover {
+  text-transform: uppercase;
+  border-bottom: 5px solid var(--blue);
+  letter-spacing: 5px;
+}
+#basic-nav-dropdown {
+  color: var(--blue);
+}
+.left-footer {
+  background-color: var(--red);
+  height: 300px;
+  padding-left: 100px;
+}
+.right-footer {
+  background-color: var(--blue);
+  height: 300px;
+}
+.contact-info {
+  color: white;
+  line-height: 2rem;
+}
+.footer-links {
+  padding-bottom: 15px;
+}
+.info-text {
+  color: white;
+}
+.row-adjust {
+  width: 900px;
+}
+a {
+  text-decoration: none !important;
+  color: #000;
+}
+@media only screen and (max-width: 768px) {
+  .right-footer {
+    display: none;
+  }
+  .left-footer {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px;
+  }
+  .contact-card{
+    display: none;
+  }
+}
+@media only screen and (max-width: 1250px) {
+  .right-footer .last-text {
+    display: none;
+  }
+  .right-footer .row-adjust {
+    width: 100%;
+  }
+}
+.top-image {
+  width: 100%;
+  height: 40vh;
+
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  position: relative;
+}
+.contact-card {
+  width: 300px;
+  height: 180;
+  background-color: white;
+  border-color: var(--red);
+  border-top: 5px solid var(--red);
+  position: absolute;
+  right: 160px;
+  bottom: -250px;
+}
+.cont-info {
+  color: var(--blue);
+}

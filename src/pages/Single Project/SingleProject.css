@@ -1,0 +1,85 @@
+.Image{
+    height: 590px;
+    padding-left: 370px;
+    padding-top: 590px;
+    padding-bottom: 15px;
+  
+  }
+  .Div1{
+    display: flex;
+    align-items: center;
+  
+  }
+  .Div2 {
+    padding-top:450px;
+    padding-left: 50px;
+  
+  }
+  .Div3{
+    display:flex;
+    align-items: center;
+  }
+  
+  .h3{
+  padding-right: 5px;
+  }
+  
+  .Text {
+    padding-left: 370px;
+    width: 680PX;
+    padding-bottom: 15px;
+    
+  }
+  
+  
+  .Image5{
+    width: 330px;
+    height: 285px;
+    border: 5px white solid;
+    padding-bottom: 15px;
+  }
+  .ABC2{
+    padding-left: 370px;
+    width: 680px;
+  }
+  .Image6
+  {
+    padding-left: 401px;
+    height: 25px;
+    width: 25px;
+  }
+  
+  .Div5{
+    display: flex;
+    align-items: center;
+    padding-left: 400px;
+  }
+  .Div6{
+  
+    display: flex;
+    align-items: center;
+    padding-left: 350px;
+  }
+  .Div7{
+    display: flex;
+    align-items: center;
+  }
+  .image6 {
+    padding-left: 10px;
+  }
+  .image7{
+    padding-right: 10px;
+  }
+  .Image8  {
+    width: 373px;
+    height: 485px;
+    border: 5px white solid;
+    position: relative;
+  }
+  .Div8{
+    display: flex;
+    align-items: center;
+    width: 1150px;
+    padding-right: 370px;
+    padding-left: 370px;
+  }
