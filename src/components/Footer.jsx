@@ -36,8 +36,8 @@ export default function Footer() {
             </svg>
           </h1>
           <p className="contact-info">
-            call us today <br />
-            <span className=" fw-bolder fs-3">+ 1 634 7638 654</span>
+            Call us today <br />
+            <span className=" fw-bolder fs-3">+201099707010</span>
           </p>
 
           {/* links start */}
@@ -134,7 +134,7 @@ export default function Footer() {
               </Col>
             </Row>
             <p className=" last-text text-light  ps-5  pt-5">
-              Merkulove © Dustro Template All rights reserved Copyrights 2020
+            &copy; 2024 <span> <bold>Abanoub Ashraf</bold> </span> All Rights Reserved
             </p>
           </Container>
         </div>
