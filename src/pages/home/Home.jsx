@@ -312,7 +312,7 @@ const Home = () => {
             <div className="col-lg-3">
               <div className="map-text">
                 <p>Company Address</p>
-                <h3>Themeforest, Envato HQ 24 Fifth st., Los Angeles, USA</h3>
+                <h3>Egypt, Elmokattam , St33</h3>
               </div>
             </div>
             <div className="col-lg-3">
@@ -322,7 +322,7 @@ const Home = () => {
                 </span>
                 <div className="card-text">
                   <p>Company Phones</p>
-                  <h3>+ 1 234 5678 098</h3>
+                  <h3>01099707010</h3>
                 </div>
               </div>
             </div>
@@ -333,7 +333,7 @@ const Home = () => {
                 </span>
                 <div className="card-text">
                   <p>Dustro Emails</p>
-                  <h3>dustro@gmail.com</h3>
+                  <h3>abanoubashraffawzy@gmail.com</h3>
                 </div>
               </div>
             </div>
